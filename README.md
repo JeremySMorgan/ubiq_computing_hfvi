@@ -1,1 +1,1 @@
-#Haptic Feedback Vision System for the Visually Impaired
+# Haptic Feedback Vision System for the Visually Impaired
