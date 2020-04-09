@@ -1,0 +1,7 @@
+g++ -std=c++11 <filename>.cpp -lrealsense2
+-l<libraryname>
+
+
+i2cdetect -y 1
+
+g++ -pthread -o i2c_wiring_test -std=c++11 i2c_write_test.cpp -lwiringPi -lcrypt -lrt
